@@ -3,7 +3,7 @@ layout: post
 read_time: true
 show_date: true
 title: "Hello"
-img: posts/20210402/2023-08-08-BackGround
+img: posts/20230808/2023-08-08-BackGround.jpg
 date: 2023-08-04
 author: Seou Choi
 description: "저를 소개합니다."
