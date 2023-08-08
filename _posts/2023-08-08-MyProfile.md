@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: "Hello"
+title: "Hello This is My ProFile"
 img: posts/20230808/2023-08-08-BackGround.jpg
 date: 2023-08-04
 author: Seou Choi
