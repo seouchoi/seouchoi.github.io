@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Hello This is My ProFile"
 img: posts/20230808/2023-08-08-BackGround.jpg
-date: 2023-08-04
+date: 2023-08-08
 author: Seou Choi
 description: "저를 소개합니다."
 ---
