@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: "안녕하세요"
+title: "Hello"
 date: 2023-08-04
 author: Seou Choi
 description: "저를 소개합니다."
